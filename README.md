@@ -33,6 +33,10 @@
 8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
 9. Сопроводите процесс настройки скриншотами для каждого пункта задания!!
 
+[freejob](https://github.com/015fanatik/lighthouse-role.git)
+[freejob](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/jenkinsfile)
+[freejob](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/ScriptedJenkinsfile)
+
 ## Необязательная часть
 
 1. Создать скрипт на groovy, который будет собирать все Job, завершившиеся хотя бы раз неуспешно. Добавить скрипт в репозиторий с решением и названием `AllJobFailure.groovy`.
