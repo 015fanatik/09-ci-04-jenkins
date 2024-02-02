@@ -8,6 +8,8 @@
 
 2. Установить Jenkins при помощи playbook.
 
+![playbook](https://github.com/015fanatik/09-ci-04-jenkins/blob/d4879bd36c41004e8185dadc004f89b541cfc7f2/screen/playbook.png)
+
 3. Запустить и проверить работоспособность.
 
 4. Сделать первоначальную настройку.
