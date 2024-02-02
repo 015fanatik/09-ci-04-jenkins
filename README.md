@@ -14,6 +14,10 @@
 
 4. Сделать первоначальную настройку.
 
+![jenkins ](https://github.com/015fanatik/09-ci-04-jenkins/blob/14853c93e0e9403291f0afc43f238f55dfd97699/screen/jenkins1.png)
+
+![jenkins ](https://github.com/015fanatik/09-ci-04-jenkins/blob/14853c93e0e9403291f0afc43f238f55dfd97699/screen/jenkins2.png)
+
 ## Основная часть
 
 1. Сделать Freestyle Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
