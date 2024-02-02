@@ -37,11 +37,10 @@
 
 ![screen](https://github.com/015fanatik/09-ci-04-jenkins/blob/d68fa90607d494e82678b886f829cfc09da75a8f/screen/multi.png)
 
-5. Создать Scripted Pipeline, наполнить его скриптом из [pipeline](./pipeline).
-6. Внести необходимые изменения, чтобы Pipeline запускал `ansible-playbook` без флагов `--check --diff`, если не установлен параметр при запуске джобы (prod_run = True). По умолчанию параметр имеет значение False и запускает прогон с флагами `--check --diff`.
-7. Проверить работоспособность, исправить ошибки, исправленный Pipeline вложить в репозиторий в файл `ScriptedJenkinsfile`.
-8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
-9. Сопроводите процесс настройки скриншотами для каждого пункта задания!!
+5-7
+![prod](https://github.com/015fanatik/09-ci-04-jenkins/blob/ff0adf754cd8c3427cfcecc348ac8fbebad18c46/screen/pro_run.png)
+![prod](https://github.com/015fanatik/09-ci-04-jenkins/blob/ff0adf754cd8c3427cfcecc348ac8fbebad18c46/screen/prod2.png
+![prod](https://github.com/015fanatik/09-ci-04-jenkins/blob/ff0adf754cd8c3427cfcecc348ac8fbebad18c46/screen/prod3.png)
 
 [lighthouse-role](https://github.com/015fanatik/lighthouse-role.git)
 [jenkinsfile](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/jenkinsfile)
