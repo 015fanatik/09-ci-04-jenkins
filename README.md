@@ -25,6 +25,13 @@
 ![freejob](https://github.com/015fanatik/09-ci-04-jenkins/blob/f6a26a401e34d00380b77baad1563b568b10b922/screen/freejob.png)
 
 2. Сделать Declarative Pipeline Job, который будет запускать `molecule test` из любого вашего репозитория с ролью.
+
+![scripted](https://github.com/015fanatik/09-ci-04-jenkins/blob/281b6952a4f8e3638cc8467bd923c7ccb191f93b/screen/scripted.png)
+
+![scripted](https://github.com/015fanatik/09-ci-04-jenkins/blob/281b6952a4f8e3638cc8467bd923c7ccb191f93b/screen/scripted.png2)
+
+
+
 3. Перенести Declarative Pipeline в репозиторий в файл `Jenkinsfile`.
 4. Создать Multibranch Pipeline на запуск `Jenkinsfile` из репозитория.
 5. Создать Scripted Pipeline, наполнить его скриптом из [pipeline](./pipeline).
