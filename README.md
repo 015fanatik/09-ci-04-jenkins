@@ -33,9 +33,9 @@
 8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.
 9. Сопроводите процесс настройки скриншотами для каждого пункта задания!!
 
-[freejob](https://github.com/015fanatik/lighthouse-role.git)
-[freejob](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/jenkinsfile)
-[freejob](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/ScriptedJenkinsfile)
+[lighthouse-role](https://github.com/015fanatik/lighthouse-role.git)
+[jenkinsfile](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/jenkinsfile)
+[ScriptedJenkinsfile](https://github.com/015fanatik/09-ci-04-jenkins/blob/7c20fd58a86e5934eebb37cf058a4e83a16aeff6/ci_file/ScriptedJenkinsfile)
 
 ## Необязательная часть
 
