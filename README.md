@@ -28,7 +28,7 @@
 
 ![scripted](https://github.com/015fanatik/09-ci-04-jenkins/blob/281b6952a4f8e3638cc8467bd923c7ccb191f93b/screen/scripted.png)
 
-![scripted](https://github.com/015fanatik/09-ci-04-jenkins/blob/281b6952a4f8e3638cc8467bd923c7ccb191f93b/screen/scripted.png2)
+![scripted](https://github.com/015fanatik/09-ci-04-jenkins/blob/85f98ba1c7b60efbec7ee6833822a443830d2e48/screen/scripted2.png)
 
 
 
